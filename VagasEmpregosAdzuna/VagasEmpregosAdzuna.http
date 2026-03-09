@@ -1,0 +1,6 @@
+@VagasEmpregosAdzuna_HostAddress = http://localhost:5007
+
+GET {{VagasEmpregosAdzuna_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
